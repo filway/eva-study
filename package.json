@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@eva/eva.js": "^1.0.4",
-    "@eva/plugin-renderer-img": "^1.0.4"
+    "@eva/plugin-renderer-img": "^1.2.6"
   },
   "devDependencies": {
     "@eva/plugin-renderer": "^1.0.4",
